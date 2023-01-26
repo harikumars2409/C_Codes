@@ -1,3 +1,7 @@
 ﻿  main.c
-D:\Git_Repos\C_Codes\main.c(11,6): warning C4101: 'wait': unreferenced local variable
+D:\Git_Repos\C_Codes\main.c(22,27): warning C4013: 'HelloWorldProg' undefined; assuming extern returning int
+D:\Git_Repos\C_Codes\main.c(29,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\Git_Repos\C_Codes\main.c(29,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Git_Repos\C_Codes\main.c(29,11): message : the missing variadic argument 2 is required by format string '%c'
+D:\Git_Repos\C_Codes\main.c(29,11): message : this argument is used as a buffer size
   C_Codes.vcxproj -> D:\Git_Repos\C_Codes\Debug\C_Codes.exe

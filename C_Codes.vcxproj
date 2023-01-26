@@ -98,6 +98,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C_Programs\HelloWorld.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
